@@ -1,0 +1,10 @@
+opencv-python
+pillow
+paddlepaddle
+paddleocr
+deepface
+pyzbar
+thefuzz
+streamlit
+faker
+numpy

@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary images & runtime caches
+temp_*.jpg
+temp_*.png
+temp_ela.jpg
+*.tmp
+
+# Deep learning weight caches
+.deepface/
+.paddleocr/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
